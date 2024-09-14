@@ -31,4 +31,4 @@ Nosso projeto foi feito em Python utilizando o Antlr, o requisito para conseguir
 
 ## Yotube:
 Finalmente, siga o link abaixo para o video que a gente fez explicando melhor como está o funcionamento e com alguns testes executados:
-- https://youtu.be/w1FyZzfyC_9
+- https://youtu.be/w1FyZzfyC_8
